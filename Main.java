@@ -1,4 +1,4 @@
-package jk1
+package jk1;
 import java.util.*;
 class Main {
   public static void main(String[] args) {
