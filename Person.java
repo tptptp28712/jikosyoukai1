@@ -10,7 +10,7 @@ public static  int s;
         //  出力
         System.out.println("名前は"+this.name+"です");
         System.out.println("年は"+this.age+"です");
-        System.out.println("BMIは"+bmi()+"です");
+        System.out.println("BMIは"+Math.floor(bmi())+"です");
         System.out.println("");
         //人数カウント
         Person.s++;
